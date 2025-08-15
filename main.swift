@@ -1,4 +1,5 @@
-// Homework 15.08.25 Dmytro
+// Homework 15.08.25 Dmytro.
+//tasks for age verification, checking positive and negative numbers, writing a cycle (1…100)
 
 import Foundation
 
