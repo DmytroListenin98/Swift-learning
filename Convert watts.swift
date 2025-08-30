@@ -1,4 +1,4 @@
-//Dmytro home work. Convert watts to price per month
+//Dmytro home work 30.08.25. Convert watts to price per month
 var totalPrise = 0.0
 var totalKWt = 0.0
 var totalWt = 0.0
