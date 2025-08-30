@@ -1,5 +1,5 @@
 /*
-Dmytro homework
+Dmytro homework _.08.25
 1 Displayed even numbers 1…20.
 2 Multiplied numbers by 2 1…10.
 3 Until the user is under 18, display their current age.
